@@ -1,0 +1,59 @@
+/* CSS files add styling rules to your content */
+
+}
+
+title {
+  font-style: roboto, bold;
+  color: #707070;
+  font-size: 64px;
+  text-align: left;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  color: #707070;
+/*   margin: 2em; */
+/*   padding: 12px;  */
+}
+
+#divGeral
+{
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 1045px;
+  background: #FAFAFA 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+#divColor
+{
+top: 178px;
+left: 224px;
+width: 832px;
+height: 180px;
+text-align: left;
+font: Regular 32px/43px Roboto;
+letter-spacing: 0;
+color: #707070;
+opacity: 1;
+}
+
+#divExterna
+{
+  background: #F4F4F4;
+  padding-top:12px;
+  padding-rigth:12px;
+  padding-left:30px;
+  padding-bottom:12px;
+}
+
+#esquerda
+{
+  float: right;
+}
+
+#direita
+{
+  float: left;
+}
