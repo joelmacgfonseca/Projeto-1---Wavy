@@ -1,1 +1,1 @@
-"Projeto 1 - Wavy" 
+	"Projeto Aula 1 - Wavy" 
